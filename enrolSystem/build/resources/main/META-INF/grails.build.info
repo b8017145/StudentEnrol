@@ -1,0 +1,6 @@
+#Mon, 20 Jan 2020 11:26:46 +0000
+
+info.app.version=0.1
+info.app.name=enrolSystem
+grails.env=development
+info.app.grailsVersion=4.0.1
